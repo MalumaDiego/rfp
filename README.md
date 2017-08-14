@@ -1,7 +1,6 @@
 # TITULO DEL PROYECTO A SOLICITAR
 
-## PROBLEMA
-Describir el problema puntualmente. 3 parrafos
+## PROBLEoblema puntualmente. 3 parrafos
 
 ## PROPUESTA GENERAL DE SOLUCIÓN
 Un parrafo: "Implementar un sistema de cobranzas y pagos"
