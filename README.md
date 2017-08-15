@@ -21,24 +21,28 @@ Mejor manejo con Atencion al Cliente(Promociones - Productos mas vendidos )
 ## VALOR PAR EL NEGOCIO
 
 ### TANGIBLE
+
  - Evitara dobles pagos a proveedores disminuyendo perdidas.
  - Permitira pago oportuno a proveedores, evitando el pago de intereses.
+ - Permitira tener mayores ingresos, debido a que se tendra un control sobre las bebidas mas vendidas 
+
  
-### INTANGIBLE
- -
 
 ## FACTIBILIDAD (ANÁLISIS DE RIESGOS)
 
 ### ECONOMICA
- - El sistema costara ...
- - Se requiere comprar un servidor
+ - El sistema costara
+ - Se requieres tener almacenamiento en la Nube 
  - Se requiere instalar internet en todas las sucursales
+ - Se dede tener equipos computacionles en cada sucursal
  - El ROI sera de ... en tantos años
  
 ### TECNICA
- -
- -
-
+ - Se realizara la Base de Datos my sql 
+ - Se usara el lenguaje de programacion PHP 
+ - Se usara el Modelo Vista Controlador  
+ - Los equipos deben soportar Windows 7 para adelante 
+4
 ### ORGANIZACIONAL
  -
  -
