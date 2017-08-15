@@ -1,9 +1,22 @@
-# TITULO DEL PROYECTO A SOLICITAR
+# Sistema Club Nocturno
 
-## PROBLEoblema puntualmente. 3 parrafos
+## Muchos de los clubes nocturnos carecen de sistemas de control para la venta de bebidas u otros productos , ademas de reserva de mesas para el mismo .
+
+Conllevando todo esto a que no se sepa que bebidas son las que mas se venden , si existira un sobre cupo de gente llegado el evento , en si varios factores qque no permitan sacar la mayor cantidad de partido al negocio
+
+
 
 ## PROPUESTA GENERAL DE SOLUCIÓN
-Un parrafo: "Implementar un sistema de cobranzas y pagos"
+
+El sistema propuesto busca implementar:
+
+Un Control sobre las ventas de producto
+
+Un control sobre el Gestionamiento de Reservas 
+
+Avisos y Alertas de almacenes
+
+Mejor manejo con Atencion al Cliente(Promociones - Productos mas vendidos ) 
 
 ## VALOR PAR EL NEGOCIO
 
