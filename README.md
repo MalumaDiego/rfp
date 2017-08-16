@@ -1,4 +1,4 @@
-# Sistema Club Nocturno
+# Sistema para Club Nocturno "Gitanas"
 
 ## Muchos de los clubes nocturnos carecen de sistemas de control para la venta de bebidas u otros productos , ademas de reserva de mesas para el mismo .
 
