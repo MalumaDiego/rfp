@@ -49,7 +49,7 @@ El sistema propuesto busca implementar:
  - Se usara el modelo MVC (Modelo Vista Controlador).
  - Los equipos deben soportar Windows 7 para adelante. 
 
-4
+
 ### ORGANIZACIONAL
 
  El Club Nocturno "Gitanas" cuenta con un Organigrama ya establecido, por lo que se quiere saber a cabalidad las funciones que todos cumplen en la empresa, por lo tanto con este sistema se sabra quienes trabajan. Por lo que luego de un tiempo de verificar el rendiminto habran despidos o contratacion de nuevo personal.
@@ -57,16 +57,17 @@ El sistema propuesto busca implementar:
  
 # LISTADO REQUERIMIENTOS
 
-1.Seguridad
-2.Registro de Proveedores SCM
-3.CRM Promociones para los clientes fieles
-4.Control y gestión de Reservas
-5.Módulo de control de entrada y salida del personal RRHH
-6.Asignación de tareas al personal CRONOGRAMA
-7.Control de depósito e inventario
-8.Facturacion e integración con Contabilidad
-9.Modulo de ventas para la barra del Club Nocturno
-10.Registro de tareas y/o obligaciones en el dia
+1.Seguridad.
+2.Registro de Proveedores SCM.
+ (https://github.com/MalumaDiego/rfp/issues/1).
+3.CRM Promociones para los clientes fieles.
+4.Control y gestión de Reservas.
+5.Módulo de control de entrada y salida del personal RRHH.
+6.Asignación de tareas al personal CRONOGRAMA.
+7.Control de depósito e inventario.
+8.Facturacion e integración con Contabilidad.
+9.Modulo de ventas para la barra del Club Nocturno.
+10.Registro de tareas y/o obligaciones en el dia.
 
 
 	
