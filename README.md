@@ -1,23 +1,25 @@
 # Sistema para Club Nocturno "Gitanas"
 
-Muchos de los clubes nocturnos carecen de sistemas de control para la venta de bebidas u otros productos, ademas de reserva de mesas para el mismo. Asi como el control del personal y todas sus funciones.
+ Como club de entretenimiento nocturno y al exito que se tiene, contamos con una gran afluencia de clientes en nuestras instalaciones. Por esa razon, tener un buen control de inventario, personal y la reserva de mesas es dificultoso.
 
-Conllevando todo esto a que no se sepa que bebidas son las que mas se venden, si existira un sobre cupo de gente llegado el evento, en si varios factores qque no permitan sacar la mayor cantidad de partido al negocio.
+Conllevando todo esto a que no se sepa que bebidas son las que mas se venden, si existira un sobre cupo de gente llegado el evento, sobre reserva de mesas, en si varios factores que no permiten sacar la mayor provecho al mercado actual.
 
 
 ## PROPUESTA GENERAL DE SOLUCION
 
 El sistema propuesto busca implementar:
 
-	- Un Control sobre las ventas de producto
+	- Un Control sobre las ventas de bebidas.
 
 	- Un control sobre el Gestionamiento de Reservas 
 
-	- Avisos y Alertas de almacenes
+	- Avisos y Alertas de almacenes.
 
-	- Mejor manejo con Atencion al Cliente(Promociones - Productos mas vendidos ) 
+	- Mejor manejo con Atencion al Cliente(Promociones) 
 
-	- Control del personal involucrado
+	- Control del personal interno y externo.
+	
+	- Reportes (almacen, libro mayor, libro menor)
 
 
 ## VALOR PAR EL NEGOCIO
@@ -29,18 +31,26 @@ El sistema propuesto busca implementar:
  - Permitira pago oportuno a proveedores, evitando el pago de intereses.
 
  - Permitira tener mayores ingresos, debido a que se tendra un control sobre las bebidas mas vendidas.
+ 
+### INTANGIBLE
 
- - Mejorar el rendimiento del personal.
+ - Mejorara el rendimiento del personal.
+
+ - Mejorara la calidad de atencion al cliente.
+ 
+ - Mejorara al control de personal.
+ 
+ - Mejorara la toma de decisiones.
 
 
 ## FACTIBILIDAD (ANALISIS DE RIESGOS)
 
 ### ECONOMICA
 
- - El sistema costara al rededor de 2000$us
- - Se requieres tener almacenamiento en la Nube 
- - Se requiere instalar internet en la mayoria de los puestos    de trabajo
- - Se dede tener equipos computacionles en cada sucursal
+ - El sistema costara al rededor de 2000$us.
+ - Se requieres tener almacenamiento en la Nube. 
+ - Se requiere instalar internet en la mayoria de los puestos de trabajo.
+ - Se dede tener equipos computacionles en cada sucursal.
  
 ### TECNICA
 
@@ -62,12 +72,12 @@ El sistema propuesto busca implementar:
   (https://github.com/MalumaDiego/rfp/issues/1).
 - 3.CRM Promociones para los clientes fieles.
   (https://github.com/MalumaDiego/rfp/issues/5).
-- 4.Control y gesti髇 de Reservas.
+- 4.Control y gesti贸n de Reservas.
   (https://github.com/MalumaDiego/rfp/issues/6).
-- 5.M骴ulo de control de entrada y salida del personal RRHH.
-- 6.Asignaci髇 de tareas al personal CRONOGRAMA.
-- 7.Control de dep髎ito e inventario.
-- 8.Facturacion e integraci髇 con Contabilidad.
+- 5.M贸dulo de control de entrada y salida del personal RRHH.
+- 6.Asignaci贸n de tareas al personal CRONOGRAMA.
+- 7.Control de dep贸sito e inventario.
+- 8.Facturacion e integraci贸n con Contabilidad.
 - 9.Modulo de ventas para la barra del Club Nocturno.
 - 10.Registro de tareas y/o obligaciones en el dia.
 
