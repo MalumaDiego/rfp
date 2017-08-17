@@ -79,7 +79,7 @@ El sistema propuesto busca implementar:
 - 7.Control de depósito e inventario.
 - 8.Facturacion e integración con Contabilidad.
 - 9.Registro de tareas y/o obligaciones en el dia.
-- 10.Administracion de activos.
+- [10.Administracion de activos.]( https://github.com/MalumaDiego/rfp/issues/9)
 
 
 
