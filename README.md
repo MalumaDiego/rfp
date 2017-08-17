@@ -5,7 +5,7 @@ Muchos de los clubes nocturnos carecen de sistemas de control para la venta de b
 Conllevando todo esto a que no se sepa que bebidas son las que mas se venden, si existira un sobre cupo de gente llegado el evento, en si varios factores qque no permitan sacar la mayor cantidad de partido al negocio.
 
 
-## PROPUESTA GENERAL DE SOLUCI√ìN
+## PROPUESTA GENERAL DE SOLUCION
 
 El sistema propuesto busca implementar:
 
@@ -33,7 +33,7 @@ El sistema propuesto busca implementar:
  - Mejorar el rendimiento del personal.
 
 
-## FACTIBILIDAD (AN√ÅLISIS DE RIESGOS)
+## FACTIBILIDAD (ANALISIS DE RIESGOS)
 
 ### ECONOMICA
 
@@ -57,12 +57,12 @@ El sistema propuesto busca implementar:
  
 ### LISTADO REQUERIMIENTOS
 
-1.Seguridad.
-2.Registro de Proveedores SCM.
+- Seguridad.
+- Registro de Proveedores SCM.
   (https://github.com/MalumaDiego/rfp/issues/1).
-3.CRM Promociones para los clientes fieles.
+- CRM Promociones para los clientes fieles.
   (https://github.com/MalumaDiego/rfp/issues/5).
-4.Control y gestiÛn de Reservas.
+- Control y gestiÛn de Reservas.
   (https://github.com/MalumaDiego/rfp/issues/6).
 5.MÛdulo de control de entrada y salida del personal RRHH.
 6.AsignaciÛn de tareas al personal CRONOGRAMA.
