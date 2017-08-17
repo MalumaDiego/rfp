@@ -49,7 +49,6 @@ El sistema propuesto busca implementar:
 
 ### ECONOMICA
 
-<<<<<<< HEAD
  - El sistema costara alrededor de 2000$us.
 
  - Se requieres tener almacenamiento en la Nube. 
@@ -67,18 +66,6 @@ El sistema propuesto busca implementar:
 
  - Se usará el modelo MVC (Modelo Vista Controlador).
 
-=======
- - El sistema costara al rededor de 2000$us.
- - Se requieres tener almacenamiento en la Nube. 
- - Se requiere instalar internet en la mayoria de los puestos de trabajo.
- - Se dede tener equipos computacionles en cada sucursal.
- 
-### TECNICA
-
- - Se realizara la Base de Datos con SQL Server 2014.
- - Se usara el lenguaje de programacion PHP con los frameworks Bootstrap para que sea responsive y Laravel para la estructura.
- - Se usara el modelo MVC (Modelo Vista Controlador).
->>>>>>> 07c2a150aab1674d1c739fb280a4c6de15a96123
  - Los equipos deben soportar Windows 7 para adelante. 
 
 
@@ -89,7 +76,6 @@ El sistema propuesto busca implementar:
  
 ### LISTADO REQUERIMIENTOS
 
-<<<<<<< HEAD
 - 1. Seguridad.
 
 - 2. Registro de Proveedores SCM.
@@ -111,19 +97,6 @@ El sistema propuesto busca implementar:
   (https://github.com/MalumaDiego/rfp/issues/4)
 
 - 8. Facturación e integración con Contabilidad.
-=======
-- 1.Seguridad.
-- [2.Registro de Proveedores SCM.](https://github.com/MalumaDiego/rfp/issues/1)
-- [3.CRM Promociones para los clientes fieles.](https://github.com/MalumaDiego/rfp/issues/5)
-- [4.Control y gestión de Reservas.](https://github.com/MalumaDiego/rfp/issues/6).
-- [5.Módulo de control de entrada y salida del personal RRHH.]( https://github.com/MalumaDiego/rfp/issues/2)
-- [6.Asignación de tareas al personal CRONOGRAMA.]( https://github.com/MalumaDiego/rfp/issues/3)
-- [7.Control de depósito e inventario.]( https://github.com/MalumaDiego/rfp/issues/4)
-- [8.Facturacion.]( https://github.com/MalumaDiego/rfp/issues/7)
-- [9.Registro de tareas y/o obligaciones en el dia.]( https://github.com/MalumaDiego/rfp/issues/8)
-- [10.Administracion de activos.]( https://github.com/MalumaDiego/rfp/issues/9)
-
->>>>>>> 07c2a150aab1674d1c739fb280a4c6de15a96123
 
 - 9. Módulo de ventas para la barra del Club Nocturno.
 
