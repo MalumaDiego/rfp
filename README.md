@@ -74,7 +74,7 @@ El sistema propuesto busca implementar:
 - [5.Módulo de control de entrada y salida del personal RRHH.]( https://github.com/MalumaDiego/rfp/issues/2)
 - [6.Asignación de tareas al personal CRONOGRAMA.]( https://github.com/MalumaDiego/rfp/issues/3)
 - [7.Control de depósito e inventario.]( https://github.com/MalumaDiego/rfp/issues/4)
-- [8.Facturacion e integración con Contabilidad.]( https://github.com/MalumaDiego/rfp/issues/7)
+- [8.Facturacion.]( https://github.com/MalumaDiego/rfp/issues/7)
 - [9.Registro de tareas y/o obligaciones en el dia.]( https://github.com/MalumaDiego/rfp/issues/8)
 - [10.Administracion de activos.]( https://github.com/MalumaDiego/rfp/issues/9)
 
