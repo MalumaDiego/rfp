@@ -57,12 +57,14 @@ El sistema propuesto busca implementar:
  
 # LISTADO REQUERIMIENTOS
 
-1.Seguridad.
-2.Registro de Proveedores SCM.
+1.- Seguridad.
+2.-Registro de Proveedores SCM.
  (https://github.com/MalumaDiego/rfp/issues/1).
-3.CRM Promociones para los clientes fieles.
-4.Control y gestión de Reservas.
-5.Módulo de control de entrada y salida del personal RRHH.
+3.-CRM Promociones para los clientes fieles.
+  (https://github.com/MalumaDiego/rfp/issues/5).
+4.-Control y gestión de Reservas.
+   (https://github.com/MalumaDiego/rfp/issues/6).
+5.-Módulo de control de entrada y salida del personal RRHH.
 6.Asignación de tareas al personal CRONOGRAMA.
 7.Control de depósito e inventario.
 8.Facturacion e integración con Contabilidad.
