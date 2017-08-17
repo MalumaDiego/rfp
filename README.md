@@ -57,19 +57,19 @@ El sistema propuesto busca implementar:
  
 ### LISTADO REQUERIMIENTOS
 
-- Seguridad.
-- Registro de Proveedores SCM.
+- 1.Seguridad.
+- 2.Registro de Proveedores SCM.
   (https://github.com/MalumaDiego/rfp/issues/1).
-- CRM Promociones para los clientes fieles.
+- 3.CRM Promociones para los clientes fieles.
   (https://github.com/MalumaDiego/rfp/issues/5).
-- Control y gestión de Reservas.
+- 4.Control y gestión de Reservas.
   (https://github.com/MalumaDiego/rfp/issues/6).
-5.Módulo de control de entrada y salida del personal RRHH.
-6.Asignación de tareas al personal CRONOGRAMA.
-7.Control de depósito e inventario.
-8.Facturacion e integración con Contabilidad.
-9.Modulo de ventas para la barra del Club Nocturno.
-10.Registro de tareas y/o obligaciones en el dia.
+- 5.Módulo de control de entrada y salida del personal RRHH.
+- 6.Asignación de tareas al personal CRONOGRAMA.
+- 7.Control de depósito e inventario.
+- 8.Facturacion e integración con Contabilidad.
+- 9.Modulo de ventas para la barra del Club Nocturno.
+- 10.Registro de tareas y/o obligaciones en el dia.
 
 
 	
