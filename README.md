@@ -1,8 +1,8 @@
 # Sistema para Club Nocturno "Gitanas"
 
- Como club de entretenimiento nocturno y al éxito que se tiene, contamos con una gran afluencia de clientes en nuestras instalaciones. Por esa razón, tener un buen control de inventario, personal y la reserva de mesas es dificultoso.
+ Al ser un club de entretenimiento nocturno y al éxito que se tiene, contamos con una gran afluencia de clientes en nuestras instalaciones. Por esa razón, tener un buen control de inventario, personal y la reserva de mesas es dificil.
 
- Conllevando todo esto a que no se sepa que bebidas son las que más se venden, si existirá un sobre cupo de gente llegado el evento, sobre reserva de mesas, en si varios factores que no permiten sacar el mayor provecho al mercado actual. También se encuentra dificultad a la hora de saber cuál es nuestro stock disponible y en que tiempo las bebidas más consumidas en el Club se van a agotar.
+ Conllevando todo esto a que no se sepa que bebidas son las que más se venden, si existirá un sobre cupo de gente llegado el evento, sobre reserva de mesas, posible desabastecimiento de nuestros proveedores, en si varios factores que no permiten sacar el mayor provecho al mercado actual. También se encuentra dificultad a la hora de saber cuál es nuestro stock disponible y en que tiempo las bebidas más consumidas en el Club se van a agotar.
 
  En la actualidad, mas específicamente en la ciudad de La Paz, no se cuenta con ningún sistema de información en el ámbito de los clubes nocturnos. Por lo cual la implementación de este sería una innovación en este rubro.
 
@@ -22,11 +22,18 @@ El sistema propuesto busca implementar:
 	- Control del personal interno y externo.
 	
 	- Reportes (almacén, libro mayor, libro menor)
-
-
+	
+	- Comunicación con los Proveedores
+	
 ## VALOR PAR EL NEGOCIO
 
 ### TANGIBLE
+
+ - Permitirá el control de ingreso y salida de los empleados.
+
+ - Permitirá el gestionamiento de las mesas en el local.
+
+ - Permitirá el gestionamiento de las reservas.
 
  - Evitara dobles pagos a proveedores disminuyendo perdidas.
 
@@ -60,9 +67,9 @@ El sistema propuesto busca implementar:
  
 ### TECNICA
 
- - Se realizará la Base de Datos con SQL Server 2014.
+ - Se realizará la Base de Datos con MySQL.
 
- - Se usará el lenguaje de programación PHP con los frameworks Bootstrap para que sea responsive y Laravel para la estructura.
+ - Se usará el lenguaje de programación PHP con los frameworks Laravel para la estructura.
 
  - Se usará el modelo MVC (Modelo Vista Controlador).
 
