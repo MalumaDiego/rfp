@@ -29,15 +29,19 @@ El sistema propuesto busca implementar:
 
 ### TANGIBLE
 
+ - Permitira el gestunamiento adecuado en Almacenes, teniendo el    
+
+   Stock actualizado y evitando imprevistos 
+
  - Permitirá el control de ingreso y salida de los empleados.
 
  - Permitirá el gestionamiento de las mesas en el local.
 
  - Permitirá el gestionamiento de las reservas.
 
- - Evitara dobles pagos a proveedores disminuyendo perdidas.
+ - Evitara Hacer pedidos no deseados de producto a proveedores .
 
- - Permitirá pago oportuno a proveedores, evitando el pago de intereses.
+ - Permitirá pago oportuno a proveedores, evitando el pago de    intereses.
 
  - Permitirá tener mayores ingresos, debido a que se tendrá un control sobre las bebidas más vendidas.
  
@@ -59,11 +63,17 @@ El sistema propuesto busca implementar:
  - El sistema costara alrededor de 2000$us.
 
  - Se requieres tener almacenamiento en la Nube. 
-
+>
  - Se requiere instalar internet en la mayoría de los puestos de trabajo.
+
+ 
+
+ Super High Speed      10 Mbps          Bs 479         Bs 99
+    10 Megas 
 
  - Se debe tener equipos computacionales en cada sucursal.
 
+ (Basico)  Monitor , Mouse , Teclado , Core i3  -> 3000 Bs 
  
 ### TECNICA
 
@@ -108,3 +118,4 @@ El sistema propuesto busca implementar:
 - 9.Módulo de ventas para la barra del Club Nocturno.
 
 - 10.Registro de tareas y/o obligaciones en el día.
+
