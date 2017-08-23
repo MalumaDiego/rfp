@@ -29,7 +29,7 @@ El sistema propuesto busca implementar:
 
 ### TANGIBLE
 
- - Permitira el gestunamiento adecuado en Almacenes, teniendo el    
+ - Permitira el gestionamiento adecuado en Almacenes, teniendo el    
 
    Stock actualizado y evitando imprevistos 
 
@@ -66,15 +66,22 @@ El sistema propuesto busca implementar:
 >
  - Se requiere instalar internet en la mayoría de los puestos de trabajo.
 
- 
-
- Super High Speed      10 Mbps          Bs 479         Bs 99
-    10 Megas 
+- Nombre de Plan: Super High Speed  
+- Ancho de Banda: 10 Mbps 
+- Tarifa Servicio: Bs 479 
+- Costo de Instalacion: Bs 99
+     
 
  - Se debe tener equipos computacionales en cada sucursal.
 
  (Basico)  Monitor , Mouse , Teclado , Core i3  -> 3000 Bs 
+
+- Fuente UPS (corte de Luz)
+
+Ups Apc Regulada Br1000g 1 Kva 600 Watt  PRECIO: $ 519.900
  
+
+
 ### TECNICA
 
  - Se realizará la Base de Datos con MySQL.
