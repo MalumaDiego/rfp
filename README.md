@@ -126,7 +126,7 @@ Precio: $ 519.900
 
 - 8.Facturación e integración con Contabilidad.
 
-- 9.Módulo de ventas para la barra del Club Nocturno.
+- 9.Registro de tareas y/o obligaciones en el día.
 
-- 10.Registro de tareas y/o obligaciones en el día.
+- 10.Registro de activos.
 
