@@ -63,13 +63,16 @@ El sistema propuesto busca implementar:
  - El sistema costara alrededor de 2000$us.
 
  - Se requieres tener almacenamiento en la Nube. 
->
+
+    30 TB Google
+    Precio: 350 $
+
  - Se requiere instalar internet en la mayoría de los puestos de trabajo.
 
-- Nombre de Plan: Super High Speed  
-- Ancho de Banda: 10 Mbps 
-- Tarifa Servicio: Bs 479 
-- Costo de Instalacion: Bs 99
+** Nombre de Plan: Super High Speed  
+** Ancho de Banda: 10 Mbps 
+** Tarifa Servicio: Bs 479 
+** Costo de Instalacion: Bs 99
      
 
  - Se debe tener equipos computacionales en cada sucursal.
@@ -78,7 +81,8 @@ El sistema propuesto busca implementar:
 
 - Fuente UPS (corte de Luz)
 
-Ups Apc Regulada Br1000g 1 Kva 600 Watt  PRECIO: $ 519.900
+Ups Apc Regulada Br1000g 1 Kva 600 Watt  
+Precio: $ 519.900
  
 
 
