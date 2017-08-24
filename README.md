@@ -47,13 +47,13 @@ El sistema propuesto busca implementar:
  
 ### INTANGIBLE
 
- - Mejorara el rendimiento del personal.
+ - Se tendra reportes diarios del stock actual.
 
- - Mejorara la calidad de atención al cliente.
+ - Se tendra un mayor control a las bebidas vendidas.
  
- - Mejorara al control de personal.
+ - Se evitara la doble reserva de mesas en el local.
  
- - Mejorara la toma de decisiones.
+ - Los datos estaran disponibles para ser estudiados, para futuras decisiones.
 
 
 ## FACTIBILIDAD (ANALISIS DE RIESGOS)
@@ -106,8 +106,7 @@ Precio: $ 519.900
 
 - 1.Seguridad.
 
-- 2.Registro de Proveedores SCM.
-  (https://github.com/MalumaDiego/rfp/issues/1).
+- [2.Registro de Proveedores SCM.](https://github.com/MalumaDiego/rfp/issues/1)
 
 - 3.CRM Promociones para los clientes fieles.
   (https://github.com/MalumaDiego/rfp/issues/5).
