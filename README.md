@@ -63,7 +63,7 @@ El sistema propuesto busca implementar:
 
 ### ECONOMICA
 
- - El sistema costara alrededor de 2000$us.
+ - El sistema costara alrededor de 6000$us.
 
  - Se requieres tener almacenamiento en la Nube. 
 
@@ -85,6 +85,15 @@ El sistema propuesto busca implementar:
 
 Ups Apc Regulada Br1000g 1 Kva 600 Watt  
 Precio: $ 519.900
+
+#Sueldos
+
+Lider del Proyecto 15000 Bs
+
+Programador Senior 12000 Bs
+
+Progrmador Junior 10000 Bs
+
  
 
 ### TECNICA
