@@ -108,24 +108,19 @@ Precio: $ 519.900
 
 - [2.Registro de Proveedores SCM.](https://github.com/MalumaDiego/rfp/issues/1)
 
-- 3.CRM Promociones para los clientes fieles.
-  (https://github.com/MalumaDiego/rfp/issues/5).
+- [3.CRM Promociones para los clientes fieles.](https://github.com/MalumaDiego/rfp/issues/5)
 
-- 4.Control y gestión de Reservas.
-  (https://github.com/MalumaDiego/rfp/issues/6).
+- [4.Control y gestión de Reservas.](https://github.com/MalumaDiego/rfp/issues/6)
 
-- 5.Módulo de control de entrada y salida del personal RRHH.
-  (https://github.com/MalumaDiego/rfp/issues/2)
+- [5.Módulo de control de entrada y salida del personal RRHH.](https://github.com/MalumaDiego/rfp/issues/2)
 
-- 6.Asignación de tareas al personal CRONOGRAMA.
-  (https://github.com/MalumaDiego/rfp/issues/3)
+- [6.Asignación de tareas al personal CRONOGRAMA.](https://github.com/MalumaDiego/rfp/issues/3)
 
-- 7.Control de depósito e inventario.
-  (https://github.com/MalumaDiego/rfp/issues/4)
+- [7.Control de depósito e inventario.](https://github.com/MalumaDiego/rfp/issues/4)
 
-- 8.Facturación e integración con Contabilidad.
+- [8.Facturación e integración con Contabilidad.](https://github.com/MalumaDiego/rfp/issues/7)
 
-- 9.Registro de tareas y/o obligaciones en el día.
+- [9.Registro de tareas y/o obligaciones en el día.](https://github.com/MalumaDiego/rfp/issues/8)
 
-- 10.Registro de activos.
+- [10.Registro de activos.](https://github.com/MalumaDiego/rfp/issues/9)
 
