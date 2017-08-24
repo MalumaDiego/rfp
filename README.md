@@ -25,6 +25,7 @@ El sistema propuesto busca implementar:
 	
 	- Comunicación con los Proveedores
 	
+	
 ## VALOR PAR EL NEGOCIO
 
 ### TANGIBLE
@@ -54,6 +55,8 @@ El sistema propuesto busca implementar:
  - Se evitara la doble reserva de mesas en el local.
  
  - Los datos estaran disponibles para ser estudiados, para futuras decisiones.
+ 
+ - Se tendra un control de inventario de tipo PEPS (Primero en Entrar, Primero en Salir), ya que en el club se venden bebidas 	alcoholicas, obtamos por este tipo de inventario para no tener problemas con las fechas de caducidad aunque sepamos que las bebidas mientras mas tiempo tienen son mejores. 
 
 
 ## FACTIBILIDAD (ANALISIS DE RIESGOS)
@@ -74,7 +77,6 @@ El sistema propuesto busca implementar:
 ** Tarifa Servicio: Bs 479 
 ** Costo de Instalacion: Bs 99
      
-
  - Se debe tener equipos computacionales en cada sucursal.
 
  (Basico)  Monitor , Mouse , Teclado , Core i3  -> 3000 Bs 
@@ -84,7 +86,6 @@ El sistema propuesto busca implementar:
 Ups Apc Regulada Br1000g 1 Kva 600 Watt  
 Precio: $ 519.900
  
-
 
 ### TECNICA
 
