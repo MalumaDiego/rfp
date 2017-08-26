@@ -133,7 +133,7 @@ El sistema propuesto busca implementar:
 
 - [8.Facturación e integración con Contabilidad.](https://github.com/MalumaDiego/rfp/issues/7)
 
-- [9.Registro de tareas y/o obligaciones en el día.](https://github.com/MalumaDiego/rfp/issues/8)
+- [9.Ordenes de compra.](https://github.com/MalumaDiego/rfp/issues/8)
 
 - [10.Registro de Items (productos).](https://github.com/MalumaDiego/rfp/issues/9)
 
