@@ -137,3 +137,9 @@ El sistema propuesto busca implementar:
 
 - [10.Registro de activos.](https://github.com/MalumaDiego/rfp/issues/9)
 
+- [11.Registro de Usuarios.](https://github.com/MalumaDiego/rfp/issues/14)
+
+- [12.Reporte de Ventas ,Ingresos ,Frecuencias de Compra.]
+(https://github.com/MalumaDiego/rfp/issues/18)
+
+
