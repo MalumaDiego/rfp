@@ -1,8 +1,8 @@
 # Sistema para Club Nocturno "Gitanas"
 
- Al ser un club de entretenimiento nocturno y al éxito que se tiene, contamos con una gran afluencia de clientes en nuestras instalaciones. Por esa razón, tener un buen control de inventario, personal y la reserva de mesas es dificil.
+Al ser un club de entretenimiento nocturno y al éxito que se tiene, contamos con una gran afluencia de clientes en nuestras instalaciones. Por esa razón, tener un buen control de inventario, personal y la reserva de mesas es dificil.
 
- Conllevando todo esto a que no se sepa que bebidas son las que más se venden, si existirá un sobre cupo de gente llegado el evento, sobre reserva de mesas, posible desabastecimiento de nuestros proveedores, en si varios factores que no permiten sacar el mayor provecho al mercado actual. También se encuentra dificultad a la hora de saber cuál es nuestro stock disponible y en que tiempo las bebidas más consumidas en el Club se van a agotar.
+Conllevando todo esto a que no se sepa que bebidas son las que más se venden, si existirá un sobre cupo de gente llegado el evento, sobre reserva de mesas, posible desabastecimiento de nuestros proveedores, en si varios factores que no permiten sacar el mayor provecho al mercado actual. También se encuentra dificultad a la hora de saber cuál es nuestro stock disponible y en que tiempo las bebidas más consumidas en el Club se van a agotar.
 
  En la actualidad, mas específicamente en la ciudad de La Paz, no se cuenta con ningún sistema de información en el ámbito de los clubes nocturnos. Por lo cual la implementación de este sería una innovación en este rubro.
 
@@ -63,38 +63,38 @@ El sistema propuesto busca implementar:
 
 ### ECONOMICA
 
- - El sistema costara alrededor de 6000$us.
+- El sistema costara alrededor de 7315$us.
 
- - Se requieres tener almacenamiento en la Nube. 
+- Se requieres tener almacenamiento en la Nube. 
 
     30 TB Google
     Precio: 350 $
 
- - Se requiere instalar internet en la mayoría de los puestos de trabajo.
+- Se requiere instalar internet en la mayoría de los puestos 
+  de trabajo.         
 
-** Nombre de Plan: Super High Speed  
-** Ancho de Banda: 10 Mbps 
-** Tarifa Servicio: Bs 479 
-** Costo de Instalacion: Bs 99
+    Nombre de Plan: Super High Speed  
+    Ancho de Banda: 10 Mbps 
+    Tarifa Servicio: 70$
+    Costo de Instalacion: 15$
      
- - Se debe tener equipos computacionales en cada sucursal.
+- Se debe tener equipos computacionales en cada sucursal.
 
- (Basico)  Monitor , Mouse , Teclado , Core i3  -> 3000 Bs 
+    (Basico)  Monitor , Mouse , Teclado , Core i3  -> 450$ 
 
 - Fuente UPS (corte de Luz)
 
-Ups Apc Regulada Br1000g 1 Kva 600 Watt  
-Precio: $ 519.900
+    Ups Apc Regulada Br1000g 1 Kva 600 Watt  
+    Precio: $ 520
 
-#Sueldos
+- Sueldos (Mensual)
 
-Lider del Proyecto 15000 Bs
+    Lider del Proyecto 2000$ 
 
-Programador Senior 12000 Bs
+    Programador Senior 1500 $
 
-Progrmador Junior 10000 Bs
+    Progrmador Junior  1000$ 
 
- 
 
 ### TECNICA
 
