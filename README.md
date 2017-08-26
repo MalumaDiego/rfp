@@ -63,6 +63,9 @@ El sistema propuesto busca implementar:
 
 ### ECONOMICA
 
+[REVISAR COSTO](https://github.com/MalumaDiego/rfp/issues/16)
+
+
 - El sistema costara alrededor de 7315$us.
 
 - Se requieres tener almacenamiento en la Nube. 
