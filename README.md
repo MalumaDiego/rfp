@@ -139,7 +139,7 @@ El sistema propuesto busca implementar:
 
 - [11.Registro de Usuarios.](https://github.com/MalumaDiego/rfp/issues/14)
 
-- [12.Reporte de Ventas ,Ingresos ,Frecuencias de Compra.]
+- [12.Reporte de Ventas Ingresos Frecuencias de Compra.]
 (https://github.com/MalumaDiego/rfp/issues/18)
 
 
