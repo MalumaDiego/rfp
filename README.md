@@ -135,7 +135,7 @@ El sistema propuesto busca implementar:
 
 - [9.Registro de tareas y/o obligaciones en el día.](https://github.com/MalumaDiego/rfp/issues/8)
 
-- [10.Registro de activos.](https://github.com/MalumaDiego/rfp/issues/9)
+- [10.Registro de Items (productos).](https://github.com/MalumaDiego/rfp/issues/9)
 
 - [11.Registro de Usuarios.](https://github.com/MalumaDiego/rfp/issues/14)
 
