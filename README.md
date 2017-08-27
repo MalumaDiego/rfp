@@ -125,21 +125,18 @@ El sistema propuesto busca implementar:
 
 - [4.Control y gestión de Reservas.](https://github.com/MalumaDiego/rfp/issues/6)
 
-- [5.Módulo de control de entrada y salida del personal RRHH.](https://github.com/MalumaDiego/rfp/issues/2)
+- [5.Asignación de tareas al personal CRONOGRAMA.](https://github.com/MalumaDiego/rfp/issues/3)
 
-- [6.Asignación de tareas al personal CRONOGRAMA.](https://github.com/MalumaDiego/rfp/issues/3)
+- [6.Control de depósito e inventario.](https://github.com/MalumaDiego/rfp/issues/4)
 
-- [7.Control de depósito e inventario.](https://github.com/MalumaDiego/rfp/issues/4)
+- [7.Facturación e integración con Contabilidad.](https://github.com/MalumaDiego/rfp/issues/7)
 
-- [8.Facturación e integración con Contabilidad.](https://github.com/MalumaDiego/rfp/issues/7)
+- [8.Ordenes de compra.](https://github.com/MalumaDiego/rfp/issues/8)
 
-- [9.Ordenes de compra.](https://github.com/MalumaDiego/rfp/issues/8)
+- [9.Registro de Items (productos).](https://github.com/MalumaDiego/rfp/issues/9)
 
-- [10.Registro de Items (productos).](https://github.com/MalumaDiego/rfp/issues/9)
+- [10.Registro de Usuarios.](https://github.com/MalumaDiego/rfp/issues/14)
 
-- [11.Registro de Usuarios.](https://github.com/MalumaDiego/rfp/issues/14)
+-[11.FACTURACIÓN - Llenado del consumo en el sistema.](https://github.com/MalumaDiego/rfp/issues/19)
 
-- [12.Reporte de Ventas Ingresos Frecuencias de Compra.]
-(https://github.com/MalumaDiego/rfp/issues/18)
-
-
+- [12.Reporte de Ventas Ingresos Frecuencias de Compra.](https://github.com/MalumaDiego/rfp/issues/18)
