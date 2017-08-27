@@ -7,7 +7,7 @@ Conllevando todo esto a que no se sepa que bebidas son las que más se venden, s
  En la actualidad, mas específicamente en la ciudad de La Paz, no se cuenta con ningún sistema de información en el ámbito de los clubes nocturnos. Por lo cual la implementación de este sería una innovación en este rubro.
 
 
-## PROPUESTA GENERAL DE SOLUCION
+## PROPUESTA GENERAL DE SOLUCIÓN
 
 El sistema propuesto busca implementar:
 
@@ -137,6 +137,6 @@ El sistema propuesto busca implementar:
 
 - [10.Registro de Usuarios.](https://github.com/MalumaDiego/rfp/issues/14)
 
--[11.FACTURACIÓN - Llenado del consumo en el sistema.](https://github.com/MalumaDiego/rfp/issues/19)
+- [11.FACTURACIÓN - Llenado del consumo en el sistema.](https://github.com/MalumaDiego/rfp/issues/19)
 
 - [12.Reporte de Ventas Ingresos Frecuencias de Compra.](https://github.com/MalumaDiego/rfp/issues/18)
